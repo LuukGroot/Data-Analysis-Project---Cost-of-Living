@@ -14,3 +14,6 @@ Questions:
 I answered the following questions,
 -In what fraction of cities is it reasonably affordable to live in the city centre?
 -In whats cities is it the cheapest to eat out for local residents?
+
+An example figure showcasing the amount of cities with reasonable affordable apartments (left of red line) compared to expensive apartments (right of red line).
+![alt text](https://github.com/LuukGroot/Data-Analysis-Project---Cost-of-Living/blob/main/histogram%20cost%20of%20living.png)
